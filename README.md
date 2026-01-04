@@ -4,5 +4,5 @@ Outcomes:
 * Created an XGBoost model, which predicts the winner, with an accuracy of 69.8%
 * Created a Streamlit App for users to interact with the model
 
-Data Source: https://www.kaggle.com/datasets/neelagiriaditya/ufc-datasets-1994-2025
-Streamlit App: https://ufccapstone-bekim.streamlit.app/
+* Data Source: https://www.kaggle.com/datasets/neelagiriaditya/ufc-datasets-1994-2025
+* Streamlit App: https://ufccapstone-bekim.streamlit.app/
